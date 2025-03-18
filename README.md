@@ -75,10 +75,10 @@
 </div>
 <br>
 <div align="center">
-  <p align="left">
+  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-1282&theme=chartreuse-dark">
 </p>
-<p align="left">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeVortex-200&theme=chartreuse_dark">
 </p>
 </div>
