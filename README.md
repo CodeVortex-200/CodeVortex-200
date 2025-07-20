@@ -99,6 +99,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
 
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=codevortex-200&theme=github-dark&hide_border=true)
+
+
 </div>
 <br>
 <div align="center">
