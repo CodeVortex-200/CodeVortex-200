@@ -11,7 +11,7 @@ Hi there! 👋 I'm a passionate and results-driven **Full Stack Engineer** with 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iamshahmuhammad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shah.muhammad.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamshahmuhammad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shah.muhammad.work@gmail.com)
 <br>
 
 # 💻 Tech Stack:
