@@ -17,17 +17,17 @@
 
 ## 🧠 What I work on
 
-- 🏗️  **Architecting** distributed Java / Spring Boot microservices for high-traffic CVM and contextual marketing pipelines
-- 📡  **Streaming** millions of events/day with Apache Kafka for real-time customer segmentation and journey orchestration
-- ⚡  **Migrating** Oracle and Teradata workloads to ClickHouse — 10–20x analytical query gains on 70M+ records
-- ☸️  **Operating** containerized workloads on Kubernetes with GitHub Actions CI/CD and 99.9% uptime under 1K+ req/sec
-- 🔐  Embedding **GDPR-compliant**, audit-ready privacy-by-design across consent management pipelines
+- 🏗️ **Architecting** distributed Java / Spring Boot microservices for high-traffic CVM and contextual marketing pipelines
+- 📡 **Streaming** millions of events/day with Apache Kafka for real-time customer segmentation and journey orchestration
+- ⚡ **Migrating** Oracle and Teradata workloads to ClickHouse — 10–20x analytical query gains on 70M+ records
+- ☸️ **Operating** containerized workloads on Kubernetes with GitHub Actions CI/CD and 99.9% uptime under 1K+ req/sec
+- 🔐 Embedding **GDPR-compliant**, audit-ready privacy-by-design across consent management pipelines
 
 Previously a **Senior Engineer at QLU.ai** (US-based AI SDR startup, $5M Seed) — architected the QDialer platform processing 50K+ calls and 100K+ minutes/month.
 
 ---
 
-## 🛠️  Core Stack
+## 🛠️ Core Stack
 
 **Languages**
 
@@ -91,12 +91,14 @@ Previously a **Senior Engineer at QLU.ai** (US-based AI SDR startup, $5M Seed) �
 
 ## 📊 GitHub Activity
 
+
 <p align="center">
-  <img height="195" src="https://streak-stats.demolab.com/?user=CodeVortex-200&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeVortex-200&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&title=Repositories,Commits,Experience,MultipleLang&margin-w=15&margin-h=15"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeVortex-200&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+  <img height="195" src="https://streak-stats.demolab.com/?user=CodeVortex-200&theme=tokyonight&hide_border=true"/>
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeVortex-200&theme=tokyonight"/>
 </p>
 
 ---
@@ -105,9 +107,9 @@ Previously a **Senior Engineer at QLU.ai** (US-based AI SDR startup, $5M Seed) �
 
 I'm exploring **Senior / Lead engineering opportunities** at companies building:
 
-- 📡  **High-scale data and streaming** platforms (telecom, fintech, observability)
-- 🤖  **AI / LLM-powered products** with real-time backends
-- 🏗️  **Distributed systems** where reliability, latency, and architecture matter
+- 📡 **High-scale data and streaming** platforms (telecom, fintech, observability)
+- 🤖 **AI / LLM-powered products** with real-time backends
+- 🏗️ **Distributed systems** where reliability, latency, and architecture matter
 
 Open to **on-site, hybrid, and remote** arrangements globally.
 
